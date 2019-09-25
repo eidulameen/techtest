@@ -1,5 +1,5 @@
 <h1>Steps to clone at your local machine</h1>
-1. git clone address<br>
+1. git clone <br>
 2. npm install<br>
 3. composer install<br>
 4. cp .env.example .env //update the .env and db config<br>
