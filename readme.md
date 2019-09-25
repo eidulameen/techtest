@@ -1,14 +1,14 @@
 <h1>Steps to clone at your local machine</h1>
-1. git clone address
-2. npm install
-3. composer install
-4. cp .env.example .env //update the .env and db config
-5. create mysql database
-6. php artisan migrate
-7. php artisan db:seed
-8. composer require laravel/passport
-9. php artisan passport:install
-10. php artisan key:generate
+1. git clone address<br>
+2. npm install<br>
+3. composer install<br>
+4. cp .env.example .env //update the .env and db config<br>
+5. create mysql database<br>
+6. php artisan migrate<br>
+7. php artisan db:seed<br>
+8. composer require laravel/passport<br>
+9. php artisan passport:install<br>
+10. php artisan key:generate<br>
 <p>
 
 <p>
